@@ -1,7 +1,7 @@
 
 import java.util.ArrayList;
 
-public class InventoryManager {
+public class InventoryManagerr{
 
     private ArrayList<Integer> inventory;
 
